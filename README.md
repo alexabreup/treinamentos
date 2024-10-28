@@ -1,4 +1,3 @@
-<img src="./assets/img/eletrolab-logo.png" alt="Alt Text" width="200">
 
 ## Treinamentos do Departamento de Projetos
 
